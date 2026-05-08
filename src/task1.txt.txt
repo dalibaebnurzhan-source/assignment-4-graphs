@@ -1,0 +1,14 @@
+Task 1 - DFS Traversal
+
+A: C B D
+B: A C E G
+C: A B D
+D: C A
+E: G F B
+F: G E
+G: F B
+
+Source Node: A
+
+DFS Traversal:
+A → C → B → E → G → F → D

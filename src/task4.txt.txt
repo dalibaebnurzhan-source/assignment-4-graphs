@@ -1,0 +1,29 @@
+Task 4 - Shortest Path (Dijkstra Algorithm)
+
+Cities and Distances:
+
+Glasgow — Stirling = 50
+Glasgow — Edinburgh = 70
+Stirling — Perth = 40
+Stirling — Edinburgh = 50
+Perth — Edinburgh = 100
+Perth — Dundee = 60
+
+Find shortest path from Edinburgh to Dundee.
+
+Possible Paths:
+
+1. Edinburgh → Perth → Dundee
+Distance = 160
+
+2. Edinburgh → Stirling → Perth → Dundee
+Distance = 150
+
+3. Edinburgh → Glasgow → Stirling → Perth → Dundee
+Distance = 220
+
+Shortest Path:
+Edinburgh → Stirling → Perth → Dundee
+
+Total Distance:
+150
